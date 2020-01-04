@@ -107,7 +107,7 @@ Dynmap.on("DynmapWebChatEvent", event => {
 ```
 
 ## Notes
-This documentation was obtained from the Dynmap [GitHub Repository](https://github.com/webbukkit/dynmap).
+This documentation was obtained from the **Dynmap** [GitHub Repository](https://github.com/webbukkit/dynmap).
 
 This documentation does not include the **Dynmap** Marker API that is obtained using `Dynmap.getMarkerAPI()`.
 You can see the methods from the Marker API [here](https://github.com/webbukkit/dynmap/blob/v3.0/DynmapCoreAPI/src/main/java/org/dynmap/markers/MarkerAPI.java).
