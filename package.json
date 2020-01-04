@@ -1,7 +1,7 @@
 {
 	"name": "Dynmap",
 	"version": "1.0.0",
-	"description": "Dynmap-API for Drupi",
+	"description": "Dynmap Common API for Drupi",
 	"main": "index.js",
     "author": "Satellyte",
 	"tags": [
