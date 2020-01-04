@@ -92,7 +92,7 @@ Currently, the **Dynmap** Common API only has 1 event.
   - `getSource()` - returns String source
   - `getName()` - returns String name
   - `getMessage()` - returns String message
-  - `isProcessed()` returns boolean isprocessed
+  - `isProcessed()` - returns boolean isprocessed
   - `setProcessed(isprocessed)`
     - boolean `isprocessed`
 
