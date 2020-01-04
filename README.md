@@ -95,6 +95,7 @@ Currently, the **Dynmap** Common API only has 1 event.
   - `isProcessed()` returns boolean isprocessed
   - `setProcessed(isprocessed)`
     - boolean `isprocessed`
+
 You can listen to events with `Dynmap.on()`. Let's see an example:
 ```js
 Dynmap.on("DynmapWebChatEvent", event => {
