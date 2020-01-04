@@ -1,0 +1,17 @@
+{
+	"name": "Dynmap",
+	"version": "1.0.0",
+	"description": "Dynmap-API for Drupi",
+	"main": "index.js",
+    "author": "Satellyte",
+	"tags": [
+        "Dynmap"
+	],
+	"dependencies": [
+        "PluginLoaded"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SatellyteMC/DrupiDynmap"
+	}
+}
