@@ -4,7 +4,7 @@ You can download Drupi [here](https://stacket.net/drupi).
 You can download the Dynmap plugin [here](https://github.com/webbukkit/dynmap/releases).
 
 ## Installation
-To install this module, start up your Minecraft server and make sure Drupi is installed.
+To install this module, start up your Minecraft server and make sure Drupi and Dynmap are installed.
 Once Drupi has been installed, restart your server, and type the command `/drupi install dynmap` into chat.
 This will begin installing the module.
 
