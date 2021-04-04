@@ -1,4 +1,6 @@
 # Dynmap
+**NOTE: This project is now abandoned and archived.**
+
 This module is an implementation of the **Dynmap** Common API for Drupi.
 You can download Drupi [here](https://stacket.net/drupi).
 You can download the Dynmap plugin [here](https://github.com/webbukkit/dynmap/releases).
